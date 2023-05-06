@@ -52,7 +52,6 @@ var defaultChromeArgs = []string{
 	"--password-store=basic",
 	"--use-mock-keychain",
 	"--remote-allow-origins=*",
-	"--enable-automation",
 }
 
 // Extract browser profile information lorca/Defalut/Preferences. Developers can also set it to other information or empty it as needed.
